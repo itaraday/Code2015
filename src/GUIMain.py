@@ -1,26 +1,28 @@
 from Tkinter import *
+import ttk
 import tkMessageBox
 from tempfile import mkstemp
 import random
 from string import maketrans
 import tkFont
 import Data as data
+import tkFileDialog
 
 def prepare(maindata, semesters, years, starting, myfield, myprov, mydest):
     try:
-        mysemesters = int(semesters.get().strip())
-        myyears = int(years.get().strip())
-        mystart = int(starting.get().strip())
+        semesters = int(semesters.get().strip())
+        years = int(years.get().strip())
+        starting = int(starting.get().strip())
         myfield = myfield.get()
         myprov = myprov.get()
         dest = mydest.get()
-        if len(myprov) and len(myfield) and len(dest):
-            maindata.run(mysemesters, myyears, mystart, myfield, myprov, dest)
-        else:
-            raise Exception()
     except:
         print "All fields are mandatory"
         return
+    if len(myprov) and len(myfield) and len(dest):
+            maindata.run(semesters, years, starting, myfield, myprov, dest)
+    else:
+        raise Exception()
 
 def ask_quit(root):
     if tkMessageBox.askokcancel("Quit", "You want to quit now? *sniff*"):
@@ -28,9 +30,11 @@ def ask_quit(root):
          
 def main():   
     print "Starting!!"
-    maindata = data.dataset()
-    maindata.getNAICS()
     root = Tk()
+    filePath = ""
+    while not len(filePath):
+        filePath = tkFileDialog.askdirectory(parent=root, title='folder where files are saved')
+    maindata = data.dataset(filePath)
     #removing the Tkinter logo by creating a temp blank icon file
     ICON = (b'\x00\x00\x01\x00\x01\x00\x10\x10\x00\x00\x01\x00\x08\x00h\x05\x00\x00'
             b'\x16\x00\x00\x00(\x00\x00\x00\x10\x00\x00\x00 \x00\x00\x00\x01\x00'
