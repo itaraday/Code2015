@@ -1,0 +1,1453 @@
+Ref_Date,GEO,GROUP,Vector,Coordinate,Value
+2006/2007,Canada,Education,v62427112,1.1,3373.0
+2007/2008,Canada,Education,v62427112,1.1,3545.0
+2008/2009,Canada,Education,v62427112,1.1,3652.0
+2009/2010,Canada,Education,v62427112,1.1,3739.0
+2010/2011,Canada,Education,v62427112,1.1,3850.0
+2011/2012,Canada,Education,v62427112,1.1,3804.0
+2012/2013,Canada,Education,v62427112,1.1,4273.0
+2013/2014,Canada,Education,v62427112,1.1,4394.0
+2014/2015,Canada,Education,v62427112,1.1,4510.0
+2006/2007,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,3991.0
+2007/2008,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,4239.0
+2008/2009,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,4377.0
+2009/2010,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,4592.0
+2010/2011,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,4748.0
+2011/2012,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,4591.0
+2012/2013,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,5002.0
+2013/2014,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,5138.0
+2014/2015,Canada,"Visual and performing arts, and communications technologies",v62427121,1.2,5287.0
+2006/2007,Canada,Humanities,v62427122,1.3,4336.0
+2007/2008,Canada,Humanities,v62427122,1.3,4342.0
+2008/2009,Canada,Humanities,v62427122,1.3,4364.0
+2009/2010,Canada,Humanities,v62427122,1.3,4525.0
+2010/2011,Canada,Humanities,v62427122,1.3,4638.0
+2011/2012,Canada,Humanities,v62427122,1.3,4769.0
+2012/2013,Canada,Humanities,v62427122,1.3,4941.0
+2013/2014,Canada,Humanities,v62427122,1.3,5023.0
+2014/2015,Canada,Humanities,v62427122,1.3,5165.0
+2006/2007,Canada,Social and behavioural sciences,v62427123,1.4,4041.0
+2007/2008,Canada,Social and behavioural sciences,v62427123,1.4,4165.0
+2008/2009,Canada,Social and behavioural sciences,v62427123,1.4,4251.0
+2009/2010,Canada,Social and behavioural sciences,v62427123,1.4,4431.0
+2010/2011,Canada,Social and behavioural sciences,v62427123,1.4,4586.0
+2011/2012,Canada,Social and behavioural sciences,v62427123,1.4,4656.0
+2012/2013,Canada,Social and behavioural sciences,v62427123,1.4,4966.0
+2013/2014,Canada,Social and behavioural sciences,v62427123,1.4,5116.0
+2014/2015,Canada,Social and behavioural sciences,v62427123,1.4,5262.0
+2006/2007,Canada,"Law, legal professions and studies",v62427124,1.5,7155.0
+2007/2008,Canada,"Law, legal professions and studies",v62427124,1.5,7382.0
+2008/2009,Canada,"Law, legal professions and studies",v62427124,1.5,8030.0
+2009/2010,Canada,"Law, legal professions and studies",v62427124,1.5,8229.0
+2010/2011,Canada,"Law, legal professions and studies",v62427124,1.5,8657.0
+2011/2012,Canada,"Law, legal professions and studies",v62427124,1.5,9335.0
+2012/2013,Canada,"Law, legal professions and studies",v62427124,1.5,9549.0
+2013/2014,Canada,"Law, legal professions and studies",v62427124,1.5,10039.0
+2014/2015,Canada,"Law, legal professions and studies",v62427124,1.5,10508.0
+2006/2007,Canada,Business management and public administration,v62427125,1.6,4195.0
+2007/2008,Canada,Business management and public administration,v62427125,1.6,4637.0
+2008/2009,Canada,Business management and public administration,v62427125,1.6,4978.0
+2009/2010,Canada,Business management and public administration,v62427125,1.6,5191.0
+2010/2011,Canada,Business management and public administration,v62427125,1.6,5386.0
+2011/2012,Canada,Business management and public administration,v62427125,1.6,5673.0
+2012/2013,Canada,Business management and public administration,v62427125,1.6,6097.0
+2013/2014,Canada,Business management and public administration,v62427125,1.6,6274.0
+2014/2015,Canada,Business management and public administration,v62427125,1.6,6525.0
+2006/2007,Canada,Physical and life sciences and technologies,v62427126,1.7,4270.0
+2007/2008,Canada,Physical and life sciences and technologies,v62427126,1.7,4534.0
+2008/2009,Canada,Physical and life sciences and technologies,v62427126,1.7,4679.0
+2009/2010,Canada,Physical and life sciences and technologies,v62427126,1.7,4885.0
+2010/2011,Canada,Physical and life sciences and technologies,v62427126,1.7,5049.0
+2011/2012,Canada,Physical and life sciences and technologies,v62427126,1.7,5247.0
+2012/2013,Canada,Physical and life sciences and technologies,v62427126,1.7,5335.0
+2013/2014,Canada,Physical and life sciences and technologies,v62427126,1.7,5481.0
+2014/2015,Canada,Physical and life sciences and technologies,v62427126,1.7,5640.0
+2006/2007,Canada,"Mathematics, computer and information sciences",v62427127,1.8,4650.0
+2007/2008,Canada,"Mathematics, computer and information sciences",v62427127,1.8,4746.0
+2008/2009,Canada,"Mathematics, computer and information sciences",v62427127,1.8,4987.0
+2009/2010,Canada,"Mathematics, computer and information sciences",v62427127,1.8,5299.0
+2010/2011,Canada,"Mathematics, computer and information sciences",v62427127,1.8,5526.0
+2011/2012,Canada,"Mathematics, computer and information sciences",v62427127,1.8,5781.0
+2012/2013,Canada,"Mathematics, computer and information sciences",v62427127,1.8,6051.0
+2013/2014,Canada,"Mathematics, computer and information sciences",v62427127,1.8,6245.0
+2014/2015,Canada,"Mathematics, computer and information sciences",v62427127,1.8,6471.0
+2006/2007,Canada,Engineering,v62427128,1.9,4943.0
+2007/2008,Canada,Engineering,v62427128,1.9,5099.0
+2008/2009,Canada,Engineering,v62427128,1.9,5319.0
+2009/2010,Canada,Engineering,v62427128,1.9,5577.0
+2010/2011,Canada,Engineering,v62427128,1.9,5992.0
+2011/2012,Canada,Engineering,v62427128,1.9,6155.0
+2012/2013,Canada,Engineering,v62427128,1.9,6560.0
+2013/2014,Canada,Engineering,v62427128,1.9,6871.0
+2014/2015,Canada,Engineering,v62427128,1.9,7151.0
+2006/2007,Canada,Architecture and related technologies,v62427113,1.10,3839.0
+2007/2008,Canada,Architecture and related technologies,v62427113,1.10,3999.0
+2008/2009,Canada,Architecture and related technologies,v62427113,1.10,4503.0
+2009/2010,Canada,Architecture and related technologies,v62427113,1.10,4826.0
+2010/2011,Canada,Architecture and related technologies,v62427113,1.10,5179.0
+2011/2012,Canada,Architecture and related technologies,v62427113,1.10,4788.0
+2012/2013,Canada,Architecture and related technologies,v62427113,1.10,5340.0
+2013/2014,Canada,Architecture and related technologies,v62427113,1.10,5495.0
+2014/2015,Canada,Architecture and related technologies,v62427113,1.10,5711.0
+2006/2007,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,3869.0
+2007/2008,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,4064.0
+2008/2009,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,4366.0
+2009/2010,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,4697.0
+2010/2011,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,4803.0
+2011/2012,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,4961.0
+2012/2013,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,5119.0
+2013/2014,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,5251.0
+2014/2015,Canada,"Agriculture, natural resources and conservation",v62427114,1.11,5407.0
+2007/2008,Canada,Dentistry,v62427115,1.12,12516.0
+2008/2009,Canada,Dentistry,v62427115,1.12,13290.0
+2009/2010,Canada,Dentistry,v62427115,1.12,13917.0
+2010/2011,Canada,Dentistry,v62427115,1.12,15062.0
+2011/2012,Canada,Dentistry,v62427115,1.12,16037.0
+2012/2013,Canada,Dentistry,v62427115,1.12,16678.0
+2013/2014,Canada,Dentistry,v62427115,1.12,17387.0
+2014/2015,Canada,Dentistry,v62427115,1.12,18187.0
+2006/2007,Canada,Medicine,v62427116,1.13,9659.0
+2007/2008,Canada,Medicine,v62427116,1.13,10029.0
+2008/2009,Canada,Medicine,v62427116,1.13,9821.0
+2009/2010,Canada,Medicine,v62427116,1.13,9815.0
+2010/2011,Canada,Medicine,v62427116,1.13,10867.0
+2011/2012,Canada,Medicine,v62427116,1.13,11313.0
+2012/2013,Canada,Medicine,v62427116,1.13,12012.0
+2013/2014,Canada,Medicine,v62427116,1.13,12470.0
+2014/2015,Canada,Medicine,v62427116,1.13,12959.0
+2007/2008,Canada,Nursing,v62427117,1.14,4267.0
+2008/2009,Canada,Nursing,v62427117,1.14,4422.0
+2009/2010,Canada,Nursing,v62427117,1.14,4558.0
+2010/2011,Canada,Nursing,v62427117,1.14,4662.0
+2011/2012,Canada,Nursing,v62427117,1.14,4731.0
+2012/2013,Canada,Nursing,v62427117,1.14,4985.0
+2013/2014,Canada,Nursing,v62427117,1.14,5140.0
+2014/2015,Canada,Nursing,v62427117,1.14,5287.0
+2007/2008,Canada,Pharmacy,v62427118,1.15,4215.0
+2008/2009,Canada,Pharmacy,v62427118,1.15,8366.0
+2009/2010,Canada,Pharmacy,v62427118,1.15,8783.0
+2010/2011,Canada,Pharmacy,v62427118,1.15,9014.0
+2011/2012,Canada,Pharmacy,v62427118,1.15,9719.0
+2012/2013,Canada,Pharmacy,v62427118,1.15,10463.0
+2013/2014,Canada,Pharmacy,v62427118,1.15,10691.0
+2014/2015,Canada,Pharmacy,v62427118,1.15,11173.0
+2007/2008,Canada,Veterinary medicine,v62427119,1.16,4296.0
+2008/2009,Canada,Veterinary medicine,v62427119,1.16,4959.0
+2009/2010,Canada,Veterinary medicine,v62427119,1.16,5609.0
+2010/2011,Canada,Veterinary medicine,v62427119,1.16,5612.0
+2011/2012,Canada,Veterinary medicine,v62427119,1.16,5889.0
+2012/2013,Canada,Veterinary medicine,v62427119,1.16,6383.0
+2013/2014,Canada,Veterinary medicine,v62427119,1.16,6680.0
+2014/2015,Canada,Veterinary medicine,v62427119,1.16,6926.0
+2006/2007,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4996.0
+2007/2008,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4400.0
+2008/2009,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4539.0
+2009/2010,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4477.0
+2010/2011,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4698.0
+2011/2012,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,4873.0
+2012/2013,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,5232.0
+2013/2014,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,5529.0
+2014/2015,Canada,"Other health, parks, recreation and fitness",v62427120,1.17,5691.0
+2006/2007,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2007/2008,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2008/2009,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2009/2010,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2010/2011,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2011/2012,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2012/2013,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2013/2014,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2014/2015,Newfoundland and Labrador,Education,v62427161,2.1,2550.0
+2006/2007,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2007/2008,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2008/2009,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2009/2010,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2010/2011,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2011/2012,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2012/2013,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2013/2014,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2014/2015,Newfoundland and Labrador,"Visual and performing arts, and communications technologies",v62427166,2.2,2550.0
+2006/2007,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2007/2008,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2008/2009,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2009/2010,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2010/2011,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2011/2012,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2012/2013,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2013/2014,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2014/2015,Newfoundland and Labrador,Humanities,v62427167,2.3,2550.0
+2006/2007,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2007/2008,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2008/2009,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2009/2010,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2010/2011,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2011/2012,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2012/2013,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2013/2014,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2014/2015,Newfoundland and Labrador,Social and behavioural sciences,v62427168,2.4,2550.0
+2006/2007,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2007/2008,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2008/2009,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2009/2010,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2010/2011,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2011/2012,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2012/2013,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2013/2014,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2014/2015,Newfoundland and Labrador,Business management and public administration,v62427169,2.6,2550.0
+2006/2007,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2007/2008,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2008/2009,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2009/2010,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2010/2011,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2011/2012,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2012/2013,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2013/2014,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2014/2015,Newfoundland and Labrador,Physical and life sciences and technologies,v62427170,2.7,2550.0
+2006/2007,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2007/2008,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2008/2009,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2009/2010,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2010/2011,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2011/2012,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2012/2013,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2013/2014,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2014/2015,Newfoundland and Labrador,"Mathematics, computer and information sciences",v62427171,2.8,2550.0
+2006/2007,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2007/2008,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2008/2009,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2009/2010,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2010/2011,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2011/2012,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2012/2013,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2013/2014,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2014/2015,Newfoundland and Labrador,Engineering,v62427172,2.9,2550.0
+2006/2007,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2007/2008,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2008/2009,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2009/2010,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2010/2011,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2011/2012,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2012/2013,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2013/2014,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2014/2015,Newfoundland and Labrador,Medicine,v62427162,2.13,6250.0
+2007/2008,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2008/2009,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2009/2010,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2010/2011,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2011/2012,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2012/2013,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2013/2014,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2014/2015,Newfoundland and Labrador,Nursing,v62427163,2.14,2550.0
+2007/2008,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2008/2009,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2009/2010,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2010/2011,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2011/2012,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2012/2013,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2013/2014,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2014/2015,Newfoundland and Labrador,Pharmacy,v62427164,2.15,2550.0
+2006/2007,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2007/2008,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2008/2009,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2009/2010,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2010/2011,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2011/2012,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2012/2013,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2013/2014,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2014/2015,Newfoundland and Labrador,"Other health, parks, recreation and fitness",v62427165,2.17,2550.0
+2006/2007,Prince Edward Island,Education,v62427173,3.1,4920.0
+2007/2008,Prince Edward Island,Education,v62427173,3.1,4440.0
+2008/2009,Prince Edward Island,Education,v62427173,3.1,4530.0
+2009/2010,Prince Edward Island,Education,v62427173,3.1,4710.0
+2010/2011,Prince Edward Island,Education,v62427173,3.1,4860.0
+2011/2012,Prince Edward Island,Education,v62427173,3.1,4950.0
+2012/2013,Prince Edward Island,Education,v62427173,3.1,5150.0
+2013/2014,Prince Edward Island,Education,v62427173,3.1,5360.0
+2014/2015,Prince Edward Island,Education,v62427173,3.1,5520.0
+2006/2007,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4920.0
+2007/2008,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4440.0
+2008/2009,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4530.0
+2009/2010,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4710.0
+2010/2011,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4860.0
+2011/2012,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,4950.0
+2012/2013,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,5150.0
+2013/2014,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,5360.0
+2014/2015,Prince Edward Island,"Visual and performing arts, and communications technologies",v62427180,3.2,5520.0
+2008/2009,Prince Edward Island,Humanities,v62427181,3.3,4530.0
+2009/2010,Prince Edward Island,Humanities,v62427181,3.3,4710.0
+2010/2011,Prince Edward Island,Humanities,v62427181,3.3,4860.0
+2011/2012,Prince Edward Island,Humanities,v62427181,3.3,4950.0
+2012/2013,Prince Edward Island,Humanities,v62427181,3.3,5150.0
+2013/2014,Prince Edward Island,Humanities,v62427181,3.3,5360.0
+2014/2015,Prince Edward Island,Humanities,v62427181,3.3,5520.0
+2006/2007,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4920.0
+2007/2008,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4440.0
+2008/2009,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4530.0
+2009/2010,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4710.0
+2010/2011,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4860.0
+2011/2012,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,4950.0
+2012/2013,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,5150.0
+2013/2014,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,5360.0
+2014/2015,Prince Edward Island,Social and behavioural sciences,v62427182,3.4,5520.0
+2006/2007,Prince Edward Island,Business management and public administration,v62427184,3.6,4920.0
+2007/2008,Prince Edward Island,Business management and public administration,v62427184,3.6,4440.0
+2008/2009,Prince Edward Island,Business management and public administration,v62427184,3.6,4530.0
+2009/2010,Prince Edward Island,Business management and public administration,v62427184,3.6,4710.0
+2010/2011,Prince Edward Island,Business management and public administration,v62427184,3.6,4860.0
+2011/2012,Prince Edward Island,Business management and public administration,v62427184,3.6,4950.0
+2012/2013,Prince Edward Island,Business management and public administration,v62427184,3.6,5150.0
+2013/2014,Prince Edward Island,Business management and public administration,v62427184,3.6,5360.0
+2014/2015,Prince Edward Island,Business management and public administration,v62427184,3.6,5520.0
+2006/2007,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4920.0
+2007/2008,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4440.0
+2008/2009,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4530.0
+2009/2010,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4710.0
+2010/2011,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4860.0
+2011/2012,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,4950.0
+2012/2013,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,5150.0
+2013/2014,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,5360.0
+2014/2015,Prince Edward Island,Physical and life sciences and technologies,v62427185,3.7,5520.0
+2006/2007,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4920.0
+2007/2008,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4440.0
+2008/2009,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4530.0
+2009/2010,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4710.0
+2010/2011,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4860.0
+2011/2012,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,4950.0
+2012/2013,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,5150.0
+2013/2014,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,5360.0
+2014/2015,Prince Edward Island,"Mathematics, computer and information sciences",v62427186,3.8,5520.0
+2006/2007,Prince Edward Island,Engineering,v62427187,3.9,4920.0
+2007/2008,Prince Edward Island,Engineering,v62427187,3.9,4440.0
+2008/2009,Prince Edward Island,Engineering,v62427187,3.9,..
+2009/2010,Prince Edward Island,Engineering,v62427187,3.9,4710.0
+2010/2011,Prince Edward Island,Engineering,v62427187,3.9,4860.0
+2011/2012,Prince Edward Island,Engineering,v62427187,3.9,4950.0
+2012/2012,Prince Edward Island,Engineering,v62427187,3.9,..
+2013/2013,Prince Edward Island,Engineering,v62427187,3.9,..
+2014/2014,Prince Edward Island,Engineering,v62427187,3.9,..
+2007/2008,Prince Edward Island,Nursing,v62427176,3.14,4440.0
+2008/2009,Prince Edward Island,Nursing,v62427176,3.14,4530.0
+2009/2010,Prince Edward Island,Nursing,v62427176,3.14,4710.0
+2010/2011,Prince Edward Island,Nursing,v62427176,3.14,4860.0
+2011/2012,Prince Edward Island,Nursing,v62427176,3.14,4950.0
+2012/2013,Prince Edward Island,Nursing,v62427176,3.14,5150.0
+2013/2014,Prince Edward Island,Nursing,v62427176,3.14,5360.0
+2014/2015,Prince Edward Island,Nursing,v62427176,3.14,5520.0
+2007/2008,Prince Edward Island,Veterinary medicine,v62427178,3.16,8880.0
+2008/2009,Prince Edward Island,Veterinary medicine,v62427178,3.16,8988.0
+2009/2010,Prince Edward Island,Veterinary medicine,v62427178,3.16,9348.0
+2010/2011,Prince Edward Island,Veterinary medicine,v62427178,3.16,9722.0
+2011/2012,Prince Edward Island,Veterinary medicine,v62427178,3.16,10471.0
+2012/2013,Prince Edward Island,Veterinary medicine,v62427178,3.16,10890.0
+2013/2014,Prince Edward Island,Veterinary medicine,v62427178,3.16,11325.0
+2014/2015,Prince Edward Island,Veterinary medicine,v62427178,3.16,11665.0
+2006/2007,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,4920.0
+2007/2008,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,..
+2008/2009,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,4530.0
+2009/2010,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,..
+2010/2011,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,..
+2011/2012,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,..
+2012/2012,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,..
+2013/2014,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,5360.0
+2014/2015,Prince Edward Island,"Other health, parks, recreation and fitness",v62427179,3.17,5520.0
+2006/2007,Nova Scotia,Education,v62427188,4.1,6685.0
+2007/2008,Nova Scotia,Education,v62427188,4.1,5901.0
+2008/2009,Nova Scotia,Education,v62427188,4.1,5746.0
+2009/2010,Nova Scotia,Education,v62427188,4.1,5351.0
+2010/2011,Nova Scotia,Education,v62427188,4.1,5121.0
+2011/2012,Nova Scotia,Education,v62427188,4.1,5309.0
+2012/2013,Nova Scotia,Education,v62427188,4.1,5513.0
+2013/2014,Nova Scotia,Education,v62427188,4.1,5650.0
+2014/2015,Nova Scotia,Education,v62427188,4.1,5857.0
+2006/2007,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,6010.0
+2007/2008,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5615.0
+2008/2009,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5381.0
+2009/2010,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5239.0
+2010/2011,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,4978.0
+2011/2012,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5147.0
+2012/2013,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5352.0
+2013/2014,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5507.0
+2014/2015,Nova Scotia,"Visual and performing arts, and communications technologies",v62427196,4.2,5696.0
+2006/2007,Nova Scotia,Humanities,v62427197,4.3,5930.0
+2007/2008,Nova Scotia,Humanities,v62427197,4.3,5617.0
+2008/2009,Nova Scotia,Humanities,v62427197,4.3,5373.0
+2009/2010,Nova Scotia,Humanities,v62427197,4.3,5247.0
+2010/2011,Nova Scotia,Humanities,v62427197,4.3,4985.0
+2011/2012,Nova Scotia,Humanities,v62427197,4.3,5169.0
+2012/2013,Nova Scotia,Humanities,v62427197,4.3,5366.0
+2013/2014,Nova Scotia,Humanities,v62427197,4.3,5582.0
+2014/2015,Nova Scotia,Humanities,v62427197,4.3,5775.0
+2006/2007,Nova Scotia,Social and behavioural sciences,v62427198,4.4,6130.0
+2007/2008,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5764.0
+2008/2009,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5387.0
+2009/2010,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5341.0
+2010/2011,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5079.0
+2011/2012,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5263.0
+2012/2013,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5516.0
+2013/2014,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5728.0
+2014/2015,Nova Scotia,Social and behavioural sciences,v62427198,4.4,5926.0
+2006/2007,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11666.0
+2007/2008,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11491.0
+2008/2009,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11408.0
+2009/2010,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11345.0
+2010/2011,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11084.0
+2011/2012,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,11785.0
+2012/2013,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,12413.0
+2013/2014,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,12757.0
+2014/2015,Nova Scotia,"Law, legal professions and studies",v62427199,4.5,13159.0
+2006/2007,Nova Scotia,Business management and public administration,v62427200,4.6,5980.0
+2007/2008,Nova Scotia,Business management and public administration,v62427200,4.6,5617.0
+2008/2009,Nova Scotia,Business management and public administration,v62427200,4.6,5505.0
+2009/2010,Nova Scotia,Business management and public administration,v62427200,4.6,5388.0
+2010/2011,Nova Scotia,Business management and public administration,v62427200,4.6,5127.0
+2011/2012,Nova Scotia,Business management and public administration,v62427200,4.6,5314.0
+2012/2013,Nova Scotia,Business management and public administration,v62427200,4.6,5535.0
+2013/2014,Nova Scotia,Business management and public administration,v62427200,4.6,5779.0
+2014/2015,Nova Scotia,Business management and public administration,v62427200,4.6,5980.0
+2006/2007,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,6241.0
+2007/2008,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,5937.0
+2008/2009,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,5916.0
+2009/2010,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,5798.0
+2010/2011,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,5537.0
+2011/2012,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,5736.0
+2012/2013,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,6004.0
+2013/2014,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,6223.0
+2014/2015,Nova Scotia,Physical and life sciences and technologies,v62427201,4.7,6440.0
+2006/2007,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,6730.0
+2007/2008,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,6019.0
+2008/2009,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,5788.0
+2009/2010,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,5646.0
+2010/2011,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,5384.0
+2011/2012,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,5588.0
+2012/2013,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,5844.0
+2013/2014,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,6151.0
+2014/2015,Nova Scotia,"Mathematics, computer and information sciences",v62427202,4.8,6369.0
+2006/2007,Nova Scotia,Engineering,v62427203,4.9,6693.0
+2007/2008,Nova Scotia,Engineering,v62427203,4.9,6284.0
+2008/2009,Nova Scotia,Engineering,v62427203,4.9,6066.0
+2009/2010,Nova Scotia,Engineering,v62427203,4.9,5962.0
+2010/2011,Nova Scotia,Engineering,v62427203,4.9,5701.0
+2011/2012,Nova Scotia,Engineering,v62427203,4.9,5869.0
+2012/2013,Nova Scotia,Engineering,v62427203,4.9,6171.0
+2013/2014,Nova Scotia,Engineering,v62427203,4.9,6381.0
+2014/2015,Nova Scotia,Engineering,v62427203,4.9,6603.0
+2006/2007,Nova Scotia,Architecture and related technologies,v62427189,4.10,6300.0
+2007/2008,Nova Scotia,Architecture and related technologies,v62427189,4.10,6130.0
+2008/2009,Nova Scotia,Architecture and related technologies,v62427189,4.10,6003.0
+2009/2010,Nova Scotia,Architecture and related technologies,v62427189,4.10,5907.0
+2010/2011,Nova Scotia,Architecture and related technologies,v62427189,4.10,5646.0
+2011/2012,Nova Scotia,Architecture and related technologies,v62427189,4.10,5840.0
+2012/2013,Nova Scotia,Architecture and related technologies,v62427189,4.10,5834.0
+2013/2014,Nova Scotia,Architecture and related technologies,v62427189,4.10,6264.0
+2014/2015,Nova Scotia,Architecture and related technologies,v62427189,4.10,6471.0
+2006/2007,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5500.0
+2007/2008,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5429.0
+2008/2009,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5021.0
+2009/2010,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,4894.0
+2010/2011,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,4633.0
+2011/2012,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5190.0
+2012/2013,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5184.0
+2013/2014,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5386.0
+2014/2015,Nova Scotia,"Agriculture, natural resources and conservation",v62427190,4.11,5573.0
+2007/2008,Nova Scotia,Dentistry,v62427191,4.12,13831.0
+2008/2009,Nova Scotia,Dentistry,v62427191,4.12,13741.0
+2009/2010,Nova Scotia,Dentistry,v62427191,4.12,13600.0
+2010/2011,Nova Scotia,Dentistry,v62427191,4.12,13339.0
+2011/2012,Nova Scotia,Dentistry,v62427191,4.12,15318.0
+2012/2013,Nova Scotia,Dentistry,v62427191,4.12,16280.0
+2013/2014,Nova Scotia,Dentistry,v62427191,4.12,16750.0
+2014/2015,Nova Scotia,Dentistry,v62427191,4.12,18328.0
+2006/2007,Nova Scotia,Medicine,v62427192,4.13,13818.0
+2007/2008,Nova Scotia,Medicine,v62427192,4.13,13520.0
+2008/2009,Nova Scotia,Medicine,v62427192,4.13,13360.0
+2009/2010,Nova Scotia,Medicine,v62427192,4.13,13201.0
+2010/2011,Nova Scotia,Medicine,v62427192,4.13,12940.0
+2011/2012,Nova Scotia,Medicine,v62427192,4.13,14324.0
+2012/2013,Nova Scotia,Medicine,v62427192,4.13,15225.0
+2013/2014,Nova Scotia,Medicine,v62427192,4.13,15717.0
+2014/2015,Nova Scotia,Medicine,v62427192,4.13,16547.0
+2007/2008,Nova Scotia,Nursing,v62427193,4.14,6054.0
+2008/2009,Nova Scotia,Nursing,v62427193,4.14,5867.0
+2009/2010,Nova Scotia,Nursing,v62427193,4.14,5640.0
+2010/2011,Nova Scotia,Nursing,v62427193,4.14,5379.0
+2011/2012,Nova Scotia,Nursing,v62427193,4.14,5579.0
+2012/2013,Nova Scotia,Nursing,v62427193,4.14,5847.0
+2013/2014,Nova Scotia,Nursing,v62427193,4.14,6090.0
+2014/2015,Nova Scotia,Nursing,v62427193,4.14,6306.0
+2007/2008,Nova Scotia,Pharmacy,v62427194,4.15,8393.0
+2008/2009,Nova Scotia,Pharmacy,v62427194,4.15,8242.0
+2009/2010,Nova Scotia,Pharmacy,v62427194,4.15,8077.0
+2010/2011,Nova Scotia,Pharmacy,v62427194,4.15,7816.0
+2011/2012,Nova Scotia,Pharmacy,v62427194,4.15,8075.0
+2012/2013,Nova Scotia,Pharmacy,v62427194,4.15,8342.0
+2013/2014,Nova Scotia,Pharmacy,v62427194,4.15,8588.0
+2014/2015,Nova Scotia,Pharmacy,v62427194,4.15,8872.0
+2006/2007,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,7044.0
+2007/2008,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,6606.0
+2008/2009,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,6225.0
+2009/2010,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,5936.0
+2010/2011,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,5762.0
+2011/2012,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,5963.0
+2012/2013,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,6215.0
+2013/2014,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,6456.0
+2014/2015,Nova Scotia,"Other health, parks, recreation and fitness",v62427195,4.17,6675.0
+2006/2007,New Brunswick,Education,v62427204,5.1,5088.0
+2007/2008,New Brunswick,Education,v62427204,5.1,5266.0
+2008/2009,New Brunswick,Education,v62427204,5.1,5293.0
+2009/2010,New Brunswick,Education,v62427204,5.1,5292.0
+2010/2011,New Brunswick,Education,v62427204,5.1,5292.0
+2011/2012,New Brunswick,Education,v62427204,5.1,5490.0
+2012/2013,New Brunswick,Education,v62427204,5.1,5646.0
+2013/2014,New Brunswick,Education,v62427204,5.1,5832.0
+2014/2015,New Brunswick,Education,v62427204,5.1,6018.0
+2006/2007,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,5723.0
+2007/2008,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,5968.0
+2008/2009,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,4920.0
+2009/2010,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6048.0
+2010/2011,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6048.0
+2011/2012,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6247.0
+2012/2013,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6272.0
+2013/2014,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6485.0
+2014/2015,New Brunswick,"Visual and performing arts, and communications technologies",v62427208,5.2,6681.0
+2006/2007,New Brunswick,Humanities,v62427209,5.3,5609.0
+2007/2008,New Brunswick,Humanities,v62427209,5.3,5739.0
+2008/2009,New Brunswick,Humanities,v62427209,5.3,5331.0
+2009/2010,New Brunswick,Humanities,v62427209,5.3,5324.0
+2010/2011,New Brunswick,Humanities,v62427209,5.3,5842.0
+2011/2012,New Brunswick,Humanities,v62427209,5.3,5524.0
+2012/2013,New Brunswick,Humanities,v62427209,5.3,5742.0
+2013/2014,New Brunswick,Humanities,v62427209,5.3,5913.0
+2014/2015,New Brunswick,Humanities,v62427209,5.3,6169.0
+2006/2007,New Brunswick,Social and behavioural sciences,v62427210,5.4,5178.0
+2007/2008,New Brunswick,Social and behavioural sciences,v62427210,5.4,5333.0
+2008/2009,New Brunswick,Social and behavioural sciences,v62427210,5.4,5231.0
+2009/2010,New Brunswick,Social and behavioural sciences,v62427210,5.4,5329.0
+2010/2011,New Brunswick,Social and behavioural sciences,v62427210,5.4,5329.0
+2011/2012,New Brunswick,Social and behavioural sciences,v62427210,5.4,5528.0
+2012/2013,New Brunswick,Social and behavioural sciences,v62427210,5.4,5721.0
+2013/2014,New Brunswick,Social and behavioural sciences,v62427210,5.4,5891.0
+2014/2015,New Brunswick,Social and behavioural sciences,v62427210,5.4,6138.0
+2006/2007,New Brunswick,"Law, legal professions and studies",v62427211,5.5,7218.0
+2007/2008,New Brunswick,"Law, legal professions and studies",v62427211,5.5,7821.0
+2008/2009,New Brunswick,"Law, legal professions and studies",v62427211,5.5,7807.0
+2009/2010,New Brunswick,"Law, legal professions and studies",v62427211,5.5,7844.0
+2010/2011,New Brunswick,"Law, legal professions and studies",v62427211,5.5,7844.0
+2011/2012,New Brunswick,"Law, legal professions and studies",v62427211,5.5,8043.0
+2012/2013,New Brunswick,"Law, legal professions and studies",v62427211,5.5,8331.0
+2013/2014,New Brunswick,"Law, legal professions and studies",v62427211,5.5,8376.0
+2014/2015,New Brunswick,"Law, legal professions and studies",v62427211,5.5,8622.0
+2006/2007,New Brunswick,Business management and public administration,v62427212,5.6,5233.0
+2007/2008,New Brunswick,Business management and public administration,v62427212,5.6,5350.0
+2008/2009,New Brunswick,Business management and public administration,v62427212,5.6,5394.0
+2009/2010,New Brunswick,Business management and public administration,v62427212,5.6,5398.0
+2010/2011,New Brunswick,Business management and public administration,v62427212,5.6,5452.0
+2011/2012,New Brunswick,Business management and public administration,v62427212,5.6,5700.0
+2012/2013,New Brunswick,Business management and public administration,v62427212,5.6,5941.0
+2013/2014,New Brunswick,Business management and public administration,v62427212,5.6,6109.0
+2014/2015,New Brunswick,Business management and public administration,v62427212,5.6,6297.0
+2006/2007,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,5645.0
+2007/2008,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,5804.0
+2008/2009,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,5811.0
+2009/2010,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,5836.0
+2010/2011,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,5836.0
+2011/2012,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,6036.0
+2012/2013,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,6286.0
+2013/2014,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,6425.0
+2014/2015,New Brunswick,Physical and life sciences and technologies,v62427213,5.7,6618.0
+2006/2007,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5365.0
+2007/2008,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5457.0
+2008/2009,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5501.0
+2009/2010,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5502.0
+2010/2011,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5502.0
+2011/2012,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5701.0
+2012/2013,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,5887.0
+2013/2014,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,6073.0
+2014/2015,New Brunswick,"Mathematics, computer and information sciences",v62427214,5.8,6255.0
+2006/2007,New Brunswick,Engineering,v62427215,5.9,5804.0
+2007/2008,New Brunswick,Engineering,v62427215,5.9,6183.0
+2008/2009,New Brunswick,Engineering,v62427215,5.9,6161.0
+2009/2010,New Brunswick,Engineering,v62427215,5.9,6190.0
+2010/2011,New Brunswick,Engineering,v62427215,5.9,6190.0
+2011/2012,New Brunswick,Engineering,v62427215,5.9,6389.0
+2012/2013,New Brunswick,Engineering,v62427215,5.9,6540.0
+2013/2014,New Brunswick,Engineering,v62427215,5.9,6698.0
+2014/2015,New Brunswick,Engineering,v62427215,5.9,6875.0
+2006/2007,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,4735.0
+2007/2008,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,5612.0
+2008/2009,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,4920.0
+2009/2010,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,5346.0
+2010/2011,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,5346.0
+2011/2012,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,5545.0
+2012/2013,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,6094.0
+2013/2014,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,6296.0
+2014/2015,New Brunswick,"Agriculture, natural resources and conservation",v62427205,5.11,6548.0
+2007/2008,New Brunswick,Nursing,v62427206,5.14,5211.0
+2008/2009,New Brunswick,Nursing,v62427206,5.14,5255.0
+2009/2010,New Brunswick,Nursing,v62427206,5.14,5268.0
+2010/2011,New Brunswick,Nursing,v62427206,5.14,5268.0
+2011/2012,New Brunswick,Nursing,v62427206,5.14,5466.0
+2012/2013,New Brunswick,Nursing,v62427206,5.14,5654.0
+2013/2014,New Brunswick,Nursing,v62427206,5.14,5805.0
+2014/2015,New Brunswick,Nursing,v62427206,5.14,5979.0
+2006/2007,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5421.0
+2007/2008,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5163.0
+2008/2009,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5155.0
+2009/2010,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5198.0
+2010/2011,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5198.0
+2011/2012,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5397.0
+2012/2013,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5581.0
+2013/2014,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5733.0
+2014/2015,New Brunswick,"Other health, parks, recreation and fitness",v62427207,5.17,5905.0
+2006/2007,Quebec,Education,v62427216,6.1,1763.0
+2007/2008,Quebec,Education,v62427216,6.1,1879.0
+2008/2009,Quebec,Education,v62427216,6.1,1984.0
+2009/2010,Quebec,Education,v62427216,6.1,2082.0
+2010/2011,Quebec,Education,v62427216,6.1,2184.0
+2011/2012,Quebec,Education,v62427216,6.1,2287.0
+2012/2013,Quebec,Education,v62427216,6.1,2303.0
+2013/2014,Quebec,Education,v62427216,6.1,2374.0
+2014/2015,Quebec,Education,v62427216,6.1,2437.0
+2006/2007,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2131.0
+2007/2008,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2254.0
+2008/2009,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2407.0
+2009/2010,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2586.0
+2010/2011,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2698.0
+2011/2012,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2811.0
+2012/2013,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2807.0
+2013/2014,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,2921.0
+2014/2015,Quebec,"Visual and performing arts, and communications technologies",v62427225,6.2,3030.0
+2006/2007,Quebec,Humanities,v62427226,6.3,2404.0
+2007/2008,Quebec,Humanities,v62427226,6.3,2255.0
+2008/2009,Quebec,Humanities,v62427226,6.3,2455.0
+2009/2010,Quebec,Humanities,v62427226,6.3,2616.0
+2010/2011,Quebec,Humanities,v62427226,6.3,2728.0
+2011/2012,Quebec,Humanities,v62427226,6.3,2843.0
+2012/2013,Quebec,Humanities,v62427226,6.3,3229.0
+2013/2014,Quebec,Humanities,v62427226,6.3,3320.0
+2014/2015,Quebec,Humanities,v62427226,6.3,3466.0
+2006/2007,Quebec,Social and behavioural sciences,v62427227,6.4,2028.0
+2007/2008,Quebec,Social and behavioural sciences,v62427227,6.4,2195.0
+2008/2009,Quebec,Social and behavioural sciences,v62427227,6.4,2257.0
+2009/2010,Quebec,Social and behavioural sciences,v62427227,6.4,2410.0
+2010/2011,Quebec,Social and behavioural sciences,v62427227,6.4,2518.0
+2011/2012,Quebec,Social and behavioural sciences,v62427227,6.4,2629.0
+2012/2013,Quebec,Social and behavioural sciences,v62427227,6.4,2627.0
+2013/2014,Quebec,Social and behavioural sciences,v62427227,6.4,2735.0
+2014/2015,Quebec,Social and behavioural sciences,v62427227,6.4,2829.0
+2006/2007,Quebec,"Law, legal professions and studies",v62427228,6.5,1997.0
+2007/2008,Quebec,"Law, legal professions and studies",v62427228,6.5,2028.0
+2008/2009,Quebec,"Law, legal professions and studies",v62427228,6.5,2156.0
+2009/2010,Quebec,"Law, legal professions and studies",v62427228,6.5,2254.0
+2010/2011,Quebec,"Law, legal professions and studies",v62427228,6.5,2330.0
+2011/2012,Quebec,"Law, legal professions and studies",v62427228,6.5,2435.0
+2012/2013,Quebec,"Law, legal professions and studies",v62427228,6.5,2436.0
+2013/2014,Quebec,"Law, legal professions and studies",v62427228,6.5,2518.0
+2014/2015,Quebec,"Law, legal professions and studies",v62427228,6.5,2594.0
+2006/2007,Quebec,Business management and public administration,v62427229,6.6,1739.0
+2007/2008,Quebec,Business management and public administration,v62427229,6.6,2006.0
+2008/2009,Quebec,Business management and public administration,v62427229,6.6,2153.0
+2009/2010,Quebec,Business management and public administration,v62427229,6.6,2206.0
+2010/2011,Quebec,Business management and public administration,v62427229,6.6,2308.0
+2011/2012,Quebec,Business management and public administration,v62427229,6.6,2411.0
+2012/2013,Quebec,Business management and public administration,v62427229,6.6,2404.0
+2013/2014,Quebec,Business management and public administration,v62427229,6.6,2492.0
+2014/2015,Quebec,Business management and public administration,v62427229,6.6,2564.0
+2006/2007,Quebec,Physical and life sciences and technologies,v62427230,6.7,2033.0
+2007/2008,Quebec,Physical and life sciences and technologies,v62427230,6.7,2182.0
+2008/2009,Quebec,Physical and life sciences and technologies,v62427230,6.7,2270.0
+2009/2010,Quebec,Physical and life sciences and technologies,v62427230,6.7,2399.0
+2010/2011,Quebec,Physical and life sciences and technologies,v62427230,6.7,2462.0
+2011/2012,Quebec,Physical and life sciences and technologies,v62427230,6.7,2615.0
+2012/2013,Quebec,Physical and life sciences and technologies,v62427230,6.7,2706.0
+2013/2014,Quebec,Physical and life sciences and technologies,v62427230,6.7,2843.0
+2014/2015,Quebec,Physical and life sciences and technologies,v62427230,6.7,2947.0
+2006/2007,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,1820.0
+2007/2008,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,1959.0
+2008/2009,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2066.0
+2009/2010,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2179.0
+2010/2011,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2263.0
+2011/2012,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2385.0
+2012/2013,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2404.0
+2013/2014,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2501.0
+2014/2015,Quebec,"Mathematics, computer and information sciences",v62427231,6.8,2575.0
+2006/2007,Quebec,Engineering,v62427232,6.9,1717.0
+2007/2008,Quebec,Engineering,v62427232,6.9,1828.0
+2008/2009,Quebec,Engineering,v62427232,6.9,1948.0
+2009/2010,Quebec,Engineering,v62427232,6.9,2231.0
+2010/2011,Quebec,Engineering,v62427232,6.9,2336.0
+2011/2012,Quebec,Engineering,v62427232,6.9,2440.0
+2012/2013,Quebec,Engineering,v62427232,6.9,2450.0
+2013/2014,Quebec,Engineering,v62427232,6.9,2540.0
+2014/2015,Quebec,Engineering,v62427232,6.9,2617.0
+2006/2007,Quebec,Architecture and related technologies,v62427217,6.10,1838.0
+2007/2008,Quebec,Architecture and related technologies,v62427217,6.10,1925.0
+2008/2009,Quebec,Architecture and related technologies,v62427217,6.10,2166.0
+2009/2010,Quebec,Architecture and related technologies,v62427217,6.10,2361.0
+2010/2011,Quebec,Architecture and related technologies,v62427217,6.10,2469.0
+2011/2012,Quebec,Architecture and related technologies,v62427217,6.10,2580.0
+2012/2013,Quebec,Architecture and related technologies,v62427217,6.10,2541.0
+2013/2014,Quebec,Architecture and related technologies,v62427217,6.10,2643.0
+2014/2015,Quebec,Architecture and related technologies,v62427217,6.10,2729.0
+2006/2007,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,1986.0
+2007/2008,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2096.0
+2008/2009,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2255.0
+2009/2010,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2424.0
+2010/2011,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2533.0
+2011/2012,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2644.0
+2012/2013,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2775.0
+2013/2014,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2874.0
+2014/2015,Quebec,"Agriculture, natural resources and conservation",v62427218,6.11,2981.0
+2007/2008,Quebec,Dentistry,v62427219,6.12,2735.0
+2008/2009,Quebec,Dentistry,v62427219,6.12,2968.0
+2009/2010,Quebec,Dentistry,v62427219,6.12,2986.0
+2010/2011,Quebec,Dentistry,v62427219,6.12,3112.0
+2011/2012,Quebec,Dentistry,v62427219,6.12,3185.0
+2012/2013,Quebec,Dentistry,v62427219,6.12,3064.0
+2013/2014,Quebec,Dentistry,v62427219,6.12,3117.0
+2014/2015,Quebec,Dentistry,v62427219,6.12,3266.0
+2006/2007,Quebec,Medicine,v62427220,6.13,2523.0
+2007/2008,Quebec,Medicine,v62427220,6.13,2203.0
+2008/2009,Quebec,Medicine,v62427220,6.13,2362.0
+2009/2010,Quebec,Medicine,v62427220,6.13,2501.0
+2010/2011,Quebec,Medicine,v62427220,6.13,2613.0
+2011/2012,Quebec,Medicine,v62427220,6.13,2717.0
+2012/2013,Quebec,Medicine,v62427220,6.13,2762.0
+2013/2014,Quebec,Medicine,v62427220,6.13,2813.0
+2014/2015,Quebec,Medicine,v62427220,6.13,2909.0
+2007/2008,Quebec,Nursing,v62427221,6.14,1822.0
+2008/2009,Quebec,Nursing,v62427221,6.14,1936.0
+2009/2010,Quebec,Nursing,v62427221,6.14,2081.0
+2010/2011,Quebec,Nursing,v62427221,6.14,2183.0
+2011/2012,Quebec,Nursing,v62427221,6.14,2285.0
+2012/2013,Quebec,Nursing,v62427221,6.14,2309.0
+2013/2014,Quebec,Nursing,v62427221,6.14,2367.0
+2014/2015,Quebec,Nursing,v62427221,6.14,2429.0
+2007/2008,Quebec,Pharmacy,v62427222,6.15,1903.0
+2008/2009,Quebec,Pharmacy,v62427222,6.15,1984.0
+2009/2010,Quebec,Pharmacy,v62427222,6.15,2079.0
+2010/2011,Quebec,Pharmacy,v62427222,6.15,2181.0
+2011/2012,Quebec,Pharmacy,v62427222,6.15,2283.0
+2012/2013,Quebec,Pharmacy,v62427222,6.15,2278.0
+2013/2014,Quebec,Pharmacy,v62427222,6.15,2336.0
+2014/2015,Quebec,Pharmacy,v62427222,6.15,2395.0
+2007/2008,Quebec,Veterinary medicine,v62427223,6.16,1905.0
+2008/2009,Quebec,Veterinary medicine,v62427223,6.16,1977.0
+2009/2010,Quebec,Veterinary medicine,v62427223,6.16,2062.0
+2010/2011,Quebec,Veterinary medicine,v62427223,6.16,2164.0
+2011/2012,Quebec,Veterinary medicine,v62427223,6.16,2266.0
+2012/2013,Quebec,Veterinary medicine,v62427223,6.16,2249.0
+2013/2014,Quebec,Veterinary medicine,v62427223,6.16,2300.0
+2014/2015,Quebec,Veterinary medicine,v62427223,6.16,2356.0
+2006/2007,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,1903.0
+2007/2008,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2201.0
+2008/2009,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2343.0
+2009/2010,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2444.0
+2010/2011,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2553.0
+2011/2012,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2668.0
+2012/2013,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2618.0
+2013/2014,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2725.0
+2014/2015,Quebec,"Other health, parks, recreation and fitness",v62427224,6.17,2819.0
+2006/2007,Ontario,Education,v62427233,7.1,4550.0
+2007/2008,Ontario,Education,v62427233,7.1,4936.0
+2008/2009,Ontario,Education,v62427233,7.1,5130.0
+2009/2010,Ontario,Education,v62427233,7.1,5273.0
+2010/2011,Ontario,Education,v62427233,7.1,5533.0
+2011/2012,Ontario,Education,v62427233,7.1,5655.0
+2012/2013,Ontario,Education,v62427233,7.1,6096.0
+2013/2014,Ontario,Education,v62427233,7.1,6278.0
+2014/2015,Ontario,Education,v62427233,7.1,6465.0
+2006/2007,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,4674.0
+2007/2008,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,4896.0
+2008/2009,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,5180.0
+2009/2010,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,5401.0
+2010/2011,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,5689.0
+2011/2012,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,5594.0
+2012/2013,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,6032.0
+2013/2014,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,6216.0
+2014/2015,Ontario,"Visual and performing arts, and communications technologies",v62427242,7.2,6413.0
+2006/2007,Ontario,Humanities,v62427243,7.3,4431.0
+2007/2008,Ontario,Humanities,v62427243,7.3,4616.0
+2008/2009,Ontario,Humanities,v62427243,7.3,4775.0
+2009/2010,Ontario,Humanities,v62427243,7.3,4986.0
+2010/2011,Ontario,Humanities,v62427243,7.3,5209.0
+2011/2012,Ontario,Humanities,v62427243,7.3,5448.0
+2012/2013,Ontario,Humanities,v62427243,7.3,5688.0
+2013/2014,Ontario,Humanities,v62427243,7.3,5865.0
+2014/2015,Ontario,Humanities,v62427243,7.3,6044.0
+2006/2007,Ontario,Social and behavioural sciences,v62427244,7.4,4434.0
+2007/2008,Ontario,Social and behavioural sciences,v62427244,7.4,4585.0
+2008/2009,Ontario,Social and behavioural sciences,v62427244,7.4,4779.0
+2009/2010,Ontario,Social and behavioural sciences,v62427244,7.4,4976.0
+2010/2011,Ontario,Social and behavioural sciences,v62427244,7.4,5199.0
+2011/2012,Ontario,Social and behavioural sciences,v62427244,7.4,5431.0
+2012/2013,Ontario,Social and behavioural sciences,v62427244,7.4,5675.0
+2013/2014,Ontario,Social and behavioural sciences,v62427244,7.4,5852.0
+2014/2015,Ontario,Social and behavioural sciences,v62427244,7.4,6031.0
+2006/2007,Ontario,"Law, legal professions and studies",v62427245,7.5,10476.0
+2007/2008,Ontario,"Law, legal professions and studies",v62427245,7.5,10962.0
+2008/2009,Ontario,"Law, legal professions and studies",v62427245,7.5,10747.0
+2009/2010,Ontario,"Law, legal professions and studies",v62427245,7.5,11313.0
+2010/2011,Ontario,"Law, legal professions and studies",v62427245,7.5,12134.0
+2011/2012,Ontario,"Law, legal professions and studies",v62427245,7.5,14872.0
+2012/2013,Ontario,"Law, legal professions and studies",v62427245,7.5,13416.0
+2013/2014,Ontario,"Law, legal professions and studies",v62427245,7.5,14182.0
+2014/2015,Ontario,"Law, legal professions and studies",v62427245,7.5,14998.0
+2006/2007,Ontario,Business management and public administration,v62427246,7.6,5264.0
+2007/2008,Ontario,Business management and public administration,v62427246,7.6,6083.0
+2008/2009,Ontario,Business management and public administration,v62427246,7.6,6419.0
+2009/2010,Ontario,Business management and public administration,v62427246,7.6,6911.0
+2010/2011,Ontario,Business management and public administration,v62427246,7.6,7317.0
+2011/2012,Ontario,Business management and public administration,v62427246,7.6,8448.0
+2012/2013,Ontario,Business management and public administration,v62427246,7.6,8469.0
+2013/2014,Ontario,Business management and public administration,v62427246,7.6,8780.0
+2014/2015,Ontario,Business management and public administration,v62427246,7.6,9209.0
+2006/2007,Ontario,Physical and life sciences and technologies,v62427247,7.7,4421.0
+2007/2008,Ontario,Physical and life sciences and technologies,v62427247,7.7,4893.0
+2008/2009,Ontario,Physical and life sciences and technologies,v62427247,7.7,5089.0
+2009/2010,Ontario,Physical and life sciences and technologies,v62427247,7.7,5323.0
+2010/2011,Ontario,Physical and life sciences and technologies,v62427247,7.7,5572.0
+2011/2012,Ontario,Physical and life sciences and technologies,v62427247,7.7,5907.0
+2012/2013,Ontario,Physical and life sciences and technologies,v62427247,7.7,6052.0
+2013/2014,Ontario,Physical and life sciences and technologies,v62427247,7.7,6246.0
+2014/2015,Ontario,Physical and life sciences and technologies,v62427247,7.7,6454.0
+2006/2007,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,5340.0
+2007/2008,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,5481.0
+2008/2009,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,5891.0
+2009/2010,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,6235.0
+2010/2011,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,6601.0
+2011/2012,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,7186.0
+2012/2013,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,7284.0
+2013/2014,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,7613.0
+2014/2015,Ontario,"Mathematics, computer and information sciences",v62427248,7.8,7928.0
+2006/2007,Ontario,Engineering,v62427249,7.9,6768.0
+2007/2008,Ontario,Engineering,v62427249,7.9,6983.0
+2008/2009,Ontario,Engineering,v62427249,7.9,7326.0
+2009/2010,Ontario,Engineering,v62427249,7.9,7766.0
+2010/2011,Ontario,Engineering,v62427249,7.9,8335.0
+2011/2012,Ontario,Engineering,v62427249,7.9,9197.0
+2012/2013,Ontario,Engineering,v62427249,7.9,9376.0
+2013/2014,Ontario,Engineering,v62427249,7.9,9975.0
+2014/2015,Ontario,Engineering,v62427249,7.9,10460.0
+2006/2007,Ontario,Architecture and related technologies,v62427234,7.10,5098.0
+2007/2008,Ontario,Architecture and related technologies,v62427234,7.10,5388.0
+2008/2009,Ontario,Architecture and related technologies,v62427234,7.10,5810.0
+2009/2010,Ontario,Architecture and related technologies,v62427234,7.10,6269.0
+2010/2011,Ontario,Architecture and related technologies,v62427234,7.10,6761.0
+2011/2012,Ontario,Architecture and related technologies,v62427234,7.10,7170.0
+2012/2013,Ontario,Architecture and related technologies,v62427234,7.10,7140.0
+2013/2014,Ontario,Architecture and related technologies,v62427234,7.10,7255.0
+2014/2015,Ontario,Architecture and related technologies,v62427234,7.10,7564.0
+2006/2007,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,4386.0
+2007/2008,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,4542.0
+2008/2009,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,4969.0
+2009/2010,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,5284.0
+2010/2011,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,5385.0
+2011/2012,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,5645.0
+2012/2013,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,5778.0
+2013/2014,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,5971.0
+2014/2015,Ontario,"Agriculture, natural resources and conservation",v62427235,7.11,6150.0
+2007/2008,Ontario,Dentistry,v62427236,7.12,19948.0
+2008/2009,Ontario,Dentistry,v62427236,7.12,20966.0
+2009/2010,Ontario,Dentistry,v62427236,7.12,22639.0
+2010/2011,Ontario,Dentistry,v62427236,7.12,24450.0
+2011/2012,Ontario,Dentistry,v62427236,7.12,26406.0
+2012/2013,Ontario,Dentistry,v62427236,7.12,28523.0
+2013/2014,Ontario,Dentistry,v62427236,7.12,30339.0
+2014/2015,Ontario,Dentistry,v62427236,7.12,32289.0
+2006/2007,Ontario,Medicine,v62427237,7.13,15297.0
+2007/2008,Ontario,Medicine,v62427237,7.13,16003.0
+2008/2009,Ontario,Medicine,v62427237,7.13,16540.0
+2009/2010,Ontario,Medicine,v62427237,7.13,17380.0
+2010/2011,Ontario,Medicine,v62427237,7.13,18400.0
+2011/2012,Ontario,Medicine,v62427237,7.13,19462.0
+2012/2013,Ontario,Medicine,v62427237,7.13,20681.0
+2013/2014,Ontario,Medicine,v62427237,7.13,21637.0
+2014/2015,Ontario,Medicine,v62427237,7.13,22744.0
+2007/2008,Ontario,Nursing,v62427238,7.14,4625.0
+2008/2009,Ontario,Nursing,v62427238,7.14,4803.0
+2009/2010,Ontario,Nursing,v62427238,7.14,5011.0
+2010/2011,Ontario,Nursing,v62427238,7.14,5235.0
+2011/2012,Ontario,Nursing,v62427238,7.14,5498.0
+2012/2013,Ontario,Nursing,v62427238,7.14,5678.0
+2013/2014,Ontario,Nursing,v62427238,7.14,5982.0
+2014/2015,Ontario,Nursing,v62427238,7.14,6194.0
+2008/2009,Ontario,Pharmacy,v62427239,7.15,19002.0
+2009/2010,Ontario,Pharmacy,v62427239,7.15,19551.0
+2010/2011,Ontario,Pharmacy,v62427239,7.15,22029.0
+2011/2012,Ontario,Pharmacy,v62427239,7.15,23144.0
+2012/2013,Ontario,Pharmacy,v62427239,7.15,23083.0
+2013/2014,Ontario,Pharmacy,v62427239,7.15,24105.0
+2014/2015,Ontario,Pharmacy,v62427239,7.15,25357.0
+2007/2008,Ontario,Veterinary medicine,v62427240,7.16,5108.0
+2008/2009,Ontario,Veterinary medicine,v62427240,7.16,5418.0
+2009/2010,Ontario,Veterinary medicine,v62427240,7.16,5749.0
+2010/2011,Ontario,Veterinary medicine,v62427240,7.16,6102.0
+2011/2012,Ontario,Veterinary medicine,v62427240,7.16,6479.0
+2012/2013,Ontario,Veterinary medicine,v62427240,7.16,6883.0
+2013/2014,Ontario,Veterinary medicine,v62427240,7.16,7197.0
+2014/2015,Ontario,Veterinary medicine,v62427240,7.16,7526.0
+2006/2007,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,6343.0
+2007/2008,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,4688.0
+2008/2009,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,4771.0
+2009/2010,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,5020.0
+2010/2011,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,5432.0
+2011/2012,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,5691.0
+2012/2013,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,6240.0
+2013/2014,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,6588.0
+2014/2015,Ontario,"Other health, parks, recreation and fitness",v62427241,7.17,6800.0
+2006/2007,Manitoba,Education,v62427250,8.1,2911.0
+2007/2008,Manitoba,Education,v62427250,8.1,2922.0
+2008/2009,Manitoba,Education,v62427250,8.1,2861.0
+2009/2010,Manitoba,Education,v62427250,8.1,2981.0
+2010/2011,Manitoba,Education,v62427250,8.1,3129.0
+2011/2012,Manitoba,Education,v62427250,8.1,3167.0
+2012/2013,Manitoba,Education,v62427250,8.1,3219.0
+2013/2014,Manitoba,Education,v62427250,8.1,3272.0
+2014/2015,Manitoba,Education,v62427250,8.1,3351.0
+2006/2007,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3527.0
+2007/2008,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3500.0
+2008/2009,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3236.0
+2009/2010,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3318.0
+2010/2011,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3489.0
+2011/2012,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3527.0
+2012/2013,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3512.0
+2013/2014,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3560.0
+2014/2015,Manitoba,"Visual and performing arts, and communications technologies",v62427258,8.2,3645.0
+2006/2007,Manitoba,Humanities,v62427259,8.3,3136.0
+2007/2008,Manitoba,Humanities,v62427259,8.3,2897.0
+2008/2009,Manitoba,Humanities,v62427259,8.3,2811.0
+2009/2010,Manitoba,Humanities,v62427259,8.3,2929.0
+2010/2011,Manitoba,Humanities,v62427259,8.3,3084.0
+2011/2012,Manitoba,Humanities,v62427259,8.3,3115.0
+2012/2013,Manitoba,Humanities,v62427259,8.3,3223.0
+2013/2014,Manitoba,Humanities,v62427259,8.3,3279.0
+2014/2015,Manitoba,Humanities,v62427259,8.3,3358.0
+2006/2007,Manitoba,Social and behavioural sciences,v62427260,8.4,2879.0
+2007/2008,Manitoba,Social and behavioural sciences,v62427260,8.4,2874.0
+2008/2009,Manitoba,Social and behavioural sciences,v62427260,8.4,2826.0
+2009/2010,Manitoba,Social and behavioural sciences,v62427260,8.4,2939.0
+2010/2011,Manitoba,Social and behavioural sciences,v62427260,8.4,3097.0
+2011/2012,Manitoba,Social and behavioural sciences,v62427260,8.4,3127.0
+2012/2013,Manitoba,Social and behavioural sciences,v62427260,8.4,3224.0
+2013/2014,Manitoba,Social and behavioural sciences,v62427260,8.4,3287.0
+2014/2015,Manitoba,Social and behavioural sciences,v62427260,8.4,3367.0
+2006/2007,Manitoba,"Law, legal professions and studies",v62427261,8.5,7592.0
+2007/2008,Manitoba,"Law, legal professions and studies",v62427261,8.5,7594.0
+2008/2009,Manitoba,"Law, legal professions and studies",v62427261,8.5,7611.0
+2009/2010,Manitoba,"Law, legal professions and studies",v62427261,8.5,8203.0
+2010/2011,Manitoba,"Law, legal professions and studies",v62427261,8.5,8611.0
+2011/2012,Manitoba,"Law, legal professions and studies",v62427261,8.5,8700.0
+2012/2013,Manitoba,"Law, legal professions and studies",v62427261,8.5,8949.0
+2013/2014,Manitoba,"Law, legal professions and studies",v62427261,8.5,9086.0
+2014/2015,Manitoba,"Law, legal professions and studies",v62427261,8.5,9304.0
+2006/2007,Manitoba,Business management and public administration,v62427262,8.6,3432.0
+2007/2008,Manitoba,Business management and public administration,v62427262,8.6,3392.0
+2008/2009,Manitoba,Business management and public administration,v62427262,8.6,3625.0
+2009/2010,Manitoba,Business management and public administration,v62427262,8.6,3777.0
+2010/2011,Manitoba,Business management and public administration,v62427262,8.6,3975.0
+2011/2012,Manitoba,Business management and public administration,v62427262,8.6,3981.0
+2012/2013,Manitoba,Business management and public administration,v62427262,8.6,3958.0
+2013/2014,Manitoba,Business management and public administration,v62427262,8.6,4000.0
+2014/2015,Manitoba,Business management and public administration,v62427262,8.6,4096.0
+2006/2007,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3066.0
+2007/2008,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3093.0
+2008/2009,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3137.0
+2009/2010,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3300.0
+2010/2011,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3466.0
+2011/2012,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3502.0
+2012/2013,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3582.0
+2013/2014,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3643.0
+2014/2015,Manitoba,Physical and life sciences and technologies,v62427263,8.7,3731.0
+2006/2007,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3166.0
+2007/2008,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3075.0
+2008/2009,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3117.0
+2009/2010,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3272.0
+2010/2011,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3439.0
+2011/2012,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3476.0
+2012/2013,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3577.0
+2013/2014,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3648.0
+2014/2015,Manitoba,"Mathematics, computer and information sciences",v62427264,8.8,3735.0
+2006/2007,Manitoba,Engineering,v62427265,8.9,4096.0
+2007/2008,Manitoba,Engineering,v62427265,8.9,5119.0
+2008/2009,Manitoba,Engineering,v62427265,8.9,5081.0
+2009/2010,Manitoba,Engineering,v62427265,8.9,5128.0
+2010/2011,Manitoba,Engineering,v62427265,8.9,5211.0
+2011/2012,Manitoba,Engineering,v62427265,8.9,5081.0
+2012/2013,Manitoba,Engineering,v62427265,8.9,5102.0
+2013/2014,Manitoba,Engineering,v62427265,8.9,5185.0
+2014/2015,Manitoba,Engineering,v62427265,8.9,5310.0
+2006/2007,Manitoba,Architecture and related technologies,v62427251,8.10,3489.0
+2007/2008,Manitoba,Architecture and related technologies,v62427251,8.10,3482.0
+2008/2009,Manitoba,Architecture and related technologies,v62427251,8.10,3488.0
+2009/2010,Manitoba,Architecture and related technologies,v62427251,8.10,3643.0
+2010/2011,Manitoba,Architecture and related technologies,v62427251,8.10,3826.0
+2011/2012,Manitoba,Architecture and related technologies,v62427251,8.10,3785.0
+2012/2013,Manitoba,Architecture and related technologies,v62427251,8.10,3891.0
+2013/2014,Manitoba,Architecture and related technologies,v62427251,8.10,3952.0
+2014/2015,Manitoba,Architecture and related technologies,v62427251,8.10,4047.0
+2006/2007,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3305.0
+2007/2008,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3312.0
+2008/2009,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3325.0
+2009/2010,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3478.0
+2010/2011,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3639.0
+2011/2012,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3668.0
+2012/2013,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3761.0
+2013/2014,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3818.0
+2014/2015,Manitoba,"Agriculture, natural resources and conservation",v62427252,8.11,3910.0
+2007/2008,Manitoba,Dentistry,v62427253,8.12,11950.0
+2008/2009,Manitoba,Dentistry,v62427253,8.12,11950.0
+2009/2010,Manitoba,Dentistry,v62427253,8.12,12488.0
+2010/2011,Manitoba,Dentistry,v62427253,8.12,14986.0
+2011/2012,Manitoba,Dentistry,v62427253,8.12,17983.0
+2012/2013,Manitoba,Dentistry,v62427253,8.12,18486.0
+2013/2014,Manitoba,Dentistry,v62427253,8.12,18782.0
+2014/2015,Manitoba,Dentistry,v62427253,8.12,19233.0
+2006/2007,Manitoba,Medicine,v62427254,8.13,6550.0
+2007/2008,Manitoba,Medicine,v62427254,8.13,6550.0
+2008/2009,Manitoba,Medicine,v62427254,8.13,6550.0
+2009/2010,Manitoba,Medicine,v62427254,8.13,6845.0
+2010/2011,Manitoba,Medicine,v62427254,8.13,7187.0
+2011/2012,Manitoba,Medicine,v62427254,8.13,7259.0
+2012/2013,Manitoba,Medicine,v62427254,8.13,7462.0
+2013/2014,Manitoba,Medicine,v62427254,8.13,7582.0
+2014/2015,Manitoba,Medicine,v62427254,8.13,7764.0
+2007/2008,Manitoba,Nursing,v62427255,8.14,3301.0
+2008/2009,Manitoba,Nursing,v62427255,8.14,3460.0
+2009/2010,Manitoba,Nursing,v62427255,8.14,3562.0
+2010/2011,Manitoba,Nursing,v62427255,8.14,3746.0
+2011/2012,Manitoba,Nursing,v62427255,8.14,3818.0
+2012/2013,Manitoba,Nursing,v62427255,8.14,3931.0
+2013/2014,Manitoba,Nursing,v62427255,8.14,4006.0
+2014/2015,Manitoba,Nursing,v62427255,8.14,4102.0
+2007/2008,Manitoba,Pharmacy,v62427256,8.15,5548.0
+2008/2009,Manitoba,Pharmacy,v62427256,8.15,5556.0
+2009/2010,Manitoba,Pharmacy,v62427256,8.15,5890.0
+2010/2011,Manitoba,Pharmacy,v62427256,8.15,6194.0
+2011/2012,Manitoba,Pharmacy,v62427256,8.15,6131.0
+2012/2013,Manitoba,Pharmacy,v62427256,8.15,6294.0
+2013/2014,Manitoba,Pharmacy,v62427256,8.15,6780.0
+2014/2015,Manitoba,Pharmacy,v62427256,8.15,7695.0
+2006/2007,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,2780.0
+2007/2008,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3466.0
+2008/2009,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3294.0
+2009/2010,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3346.0
+2010/2011,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3618.0
+2011/2012,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3639.0
+2012/2013,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3433.0
+2013/2014,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3484.0
+2014/2015,Manitoba,"Other health, parks, recreation and fitness",v62427257,8.17,3568.0
+2006/2007,Saskatchewan,Education,v62427266,9.1,4481.0
+2007/2008,Saskatchewan,Education,v62427266,9.1,4479.0
+2008/2009,Saskatchewan,Education,v62427266,9.1,4479.0
+2009/2010,Saskatchewan,Education,v62427266,9.1,4615.0
+2010/2011,Saskatchewan,Education,v62427266,9.1,4834.0
+2011/2012,Saskatchewan,Education,v62427266,9.1,5113.0
+2012/2013,Saskatchewan,Education,v62427266,9.1,5361.0
+2013/2014,Saskatchewan,Education,v62427266,9.1,5588.0
+2014/2015,Saskatchewan,Education,v62427266,9.1,5802.0
+2006/2007,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,4410.0
+2007/2008,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,4413.0
+2008/2009,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,4414.0
+2009/2010,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,4548.0
+2010/2011,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,4762.0
+2011/2012,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,5213.0
+2012/2013,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,5394.0
+2013/2014,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,5669.0
+2014/2015,Saskatchewan,"Visual and performing arts, and communications technologies",v62427274,9.2,5890.0
+2006/2007,Saskatchewan,Humanities,v62427275,9.3,4410.0
+2007/2008,Saskatchewan,Humanities,v62427275,9.3,4409.0
+2008/2009,Saskatchewan,Humanities,v62427275,9.3,4414.0
+2009/2010,Saskatchewan,Humanities,v62427275,9.3,4548.0
+2010/2011,Saskatchewan,Humanities,v62427275,9.3,4756.0
+2011/2012,Saskatchewan,Humanities,v62427275,9.3,4951.0
+2012/2013,Saskatchewan,Humanities,v62427275,9.3,5182.0
+2013/2014,Saskatchewan,Humanities,v62427275,9.3,5450.0
+2014/2015,Saskatchewan,Humanities,v62427275,9.3,5660.0
+2006/2007,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4409.0
+2007/2008,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4409.0
+2008/2009,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4414.0
+2009/2010,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4548.0
+2010/2011,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4764.0
+2011/2012,Saskatchewan,Social and behavioural sciences,v62427276,9.4,4989.0
+2012/2013,Saskatchewan,Social and behavioural sciences,v62427276,9.4,5113.0
+2013/2014,Saskatchewan,Social and behavioural sciences,v62427276,9.4,5331.0
+2014/2015,Saskatchewan,Social and behavioural sciences,v62427276,9.4,5541.0
+2006/2007,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,6840.0
+2007/2008,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,6840.0
+2008/2009,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,6840.0
+2009/2010,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,7353.0
+2010/2011,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,8070.0
+2011/2012,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,8490.0
+2012/2013,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,9900.0
+2013/2014,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,11400.0
+2014/2015,Saskatchewan,"Law, legal professions and studies",v62427277,9.5,12015.0
+2006/2007,Saskatchewan,Business management and public administration,v62427278,9.6,4963.0
+2007/2008,Saskatchewan,Business management and public administration,v62427278,9.6,4960.0
+2008/2009,Saskatchewan,Business management and public administration,v62427278,9.6,4960.0
+2009/2010,Saskatchewan,Business management and public administration,v62427278,9.6,5184.0
+2010/2011,Saskatchewan,Business management and public administration,v62427278,9.6,5471.0
+2011/2012,Saskatchewan,Business management and public administration,v62427278,9.6,5788.0
+2012/2013,Saskatchewan,Business management and public administration,v62427278,9.6,6036.0
+2013/2014,Saskatchewan,Business management and public administration,v62427278,9.6,6271.0
+2014/2015,Saskatchewan,Business management and public administration,v62427278,9.6,6519.0
+2006/2007,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,4474.0
+2007/2008,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,4473.0
+2008/2009,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,4473.0
+2009/2010,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,4612.0
+2010/2011,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,4825.0
+2011/2012,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,5138.0
+2012/2013,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,5328.0
+2013/2014,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,5564.0
+2014/2015,Saskatchewan,Physical and life sciences and technologies,v62427279,9.7,5803.0
+2006/2007,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,4462.0
+2007/2008,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,4456.0
+2008/2009,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,4456.0
+2009/2010,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,4592.0
+2010/2011,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,4810.0
+2011/2012,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,5203.0
+2012/2013,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,5319.0
+2013/2014,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,5541.0
+2014/2015,Saskatchewan,"Mathematics, computer and information sciences",v62427280,9.8,5781.0
+2006/2007,Saskatchewan,Engineering,v62427281,9.9,5222.0
+2007/2008,Saskatchewan,Engineering,v62427281,9.9,5223.0
+2008/2009,Saskatchewan,Engineering,v62427281,9.9,5223.0
+2009/2010,Saskatchewan,Engineering,v62427281,9.9,5448.0
+2010/2011,Saskatchewan,Engineering,v62427281,9.9,5748.0
+2011/2012,Saskatchewan,Engineering,v62427281,9.9,6273.0
+2012/2013,Saskatchewan,Engineering,v62427281,9.9,6702.0
+2013/2014,Saskatchewan,Engineering,v62427281,9.9,6094.0
+2014/2015,Saskatchewan,Engineering,v62427281,9.9,6384.0
+2006/2007,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4524.0
+2007/2008,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4523.0
+2008/2009,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4524.0
+2009/2010,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4659.0
+2010/2011,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4866.0
+2011/2012,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,4983.0
+2012/2013,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,5190.0
+2013/2014,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,5424.0
+2014/2015,Saskatchewan,"Agriculture, natural resources and conservation",v62427267,9.11,5658.0
+2007/2008,Saskatchewan,Dentistry,v62427268,9.12,32000.0
+2008/2009,Saskatchewan,Dentistry,v62427268,9.12,32000.0
+2009/2010,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2010/2011,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2011/2012,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2012/2013,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2013/2014,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2014/2015,Saskatchewan,Dentistry,v62427268,9.12,32960.0
+2006/2007,Saskatchewan,Medicine,v62427269,9.13,11036.0
+2007/2008,Saskatchewan,Medicine,v62427269,9.13,11036.0
+2008/2009,Saskatchewan,Medicine,v62427269,9.13,11036.0
+2009/2010,Saskatchewan,Medicine,v62427269,9.13,11367.0
+2010/2011,Saskatchewan,Medicine,v62427269,9.13,12276.0
+2011/2012,Saskatchewan,Medicine,v62427269,9.13,12921.0
+2012/2013,Saskatchewan,Medicine,v62427269,9.13,13890.0
+2013/2014,Saskatchewan,Medicine,v62427269,9.13,14930.0
+2014/2015,Saskatchewan,Medicine,v62427269,9.13,15530.0
+2007/2008,Saskatchewan,Nursing,v62427270,9.14,4779.0
+2008/2009,Saskatchewan,Nursing,v62427270,9.14,4779.0
+2009/2010,Saskatchewan,Nursing,v62427270,9.14,4922.0
+2010/2011,Saskatchewan,Nursing,v62427270,9.14,5141.0
+2011/2012,Saskatchewan,Nursing,v62427270,9.14,5264.0
+2012/2013,Saskatchewan,Nursing,v62427270,9.14,5516.0
+2013/2014,Saskatchewan,Nursing,v62427270,9.14,5913.0
+2014/2015,Saskatchewan,Nursing,v62427270,9.14,6187.0
+2008/2009,Saskatchewan,Pharmacy,v62427271,9.15,6670.0
+2009/2010,Saskatchewan,Pharmacy,v62427271,9.15,7102.0
+2010/2011,Saskatchewan,Pharmacy,v62427271,9.15,7510.0
+2011/2012,Saskatchewan,Pharmacy,v62427271,9.15,7750.0
+2012/2013,Saskatchewan,Pharmacy,v62427271,9.15,8146.0
+2013/2014,Saskatchewan,Pharmacy,v62427271,9.15,7250.0
+2014/2015,Saskatchewan,Pharmacy,v62427271,9.15,7543.0
+2007/2008,Saskatchewan,Veterinary medicine,v62427272,9.16,6553.0
+2008/2009,Saskatchewan,Veterinary medicine,v62427272,9.16,6553.0
+2009/2010,Saskatchewan,Veterinary medicine,v62427272,9.16,6750.0
+2010/2011,Saskatchewan,Veterinary medicine,v62427272,9.16,7020.0
+2011/2012,Saskatchewan,Veterinary medicine,v62427272,9.16,7174.0
+2012/2013,Saskatchewan,Veterinary medicine,v62427272,9.16,7497.0
+2013/2014,Saskatchewan,Veterinary medicine,v62427272,9.16,7872.0
+2014/2015,Saskatchewan,Veterinary medicine,v62427272,9.16,8266.0
+2006/2007,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,4524.0
+2007/2008,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,4524.0
+2008/2009,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,4462.0
+2009/2010,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,4593.0
+2010/2011,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,4812.0
+2011/2012,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,5202.0
+2012/2013,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,5390.0
+2013/2014,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,5627.0
+2014/2015,Saskatchewan,"Other health, parks, recreation and fitness",v62427273,9.17,5848.0
+2006/2007,Alberta,Education,v62427129,10.1,4589.0
+2007/2008,Alberta,Education,v62427129,10.1,4816.0
+2008/2009,Alberta,Education,v62427129,10.1,4873.0
+2009/2010,Alberta,Education,v62427129,10.1,5073.0
+2010/2011,Alberta,Education,v62427129,10.1,5149.0
+2011/2012,Alberta,Education,v62427129,10.1,5166.0
+2012/2013,Alberta,Education,v62427129,10.1,5221.0
+2013/2014,Alberta,Education,v62427129,10.1,5230.0
+2014/2015,Alberta,Education,v62427129,10.1,5282.0
+2006/2007,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4435.0
+2007/2008,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4665.0
+2008/2009,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4798.0
+2009/2010,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4747.0
+2010/2011,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4818.0
+2011/2012,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4834.0
+2012/2013,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4940.0
+2013/2014,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4934.0
+2014/2015,Alberta,"Visual and performing arts, and communications technologies",v62427137,10.2,4983.0
+2006/2007,Alberta,Humanities,v62427138,10.3,4610.0
+2007/2008,Alberta,Humanities,v62427138,10.3,4838.0
+2008/2009,Alberta,Humanities,v62427138,10.3,4850.0
+2009/2010,Alberta,Humanities,v62427138,10.3,5063.0
+2010/2011,Alberta,Humanities,v62427138,10.3,5139.0
+2011/2012,Alberta,Humanities,v62427138,10.3,5157.0
+2012/2013,Alberta,Humanities,v62427138,10.3,5023.0
+2013/2014,Alberta,Humanities,v62427138,10.3,5014.0
+2014/2015,Alberta,Humanities,v62427138,10.3,5067.0
+2006/2007,Alberta,Social and behavioural sciences,v62427139,10.4,4644.0
+2007/2008,Alberta,Social and behavioural sciences,v62427139,10.4,4793.0
+2008/2009,Alberta,Social and behavioural sciences,v62427139,10.4,4873.0
+2009/2010,Alberta,Social and behavioural sciences,v62427139,10.4,5072.0
+2010/2011,Alberta,Social and behavioural sciences,v62427139,10.4,5148.0
+2011/2012,Alberta,Social and behavioural sciences,v62427139,10.4,5165.0
+2012/2013,Alberta,Social and behavioural sciences,v62427139,10.4,5136.0
+2013/2014,Alberta,Social and behavioural sciences,v62427139,10.4,5124.0
+2014/2015,Alberta,Social and behavioural sciences,v62427139,10.4,5176.0
+2006/2007,Alberta,"Law, legal professions and studies",v62427140,10.5,9328.0
+2007/2008,Alberta,"Law, legal professions and studies",v62427140,10.5,9539.0
+2008/2009,Alberta,"Law, legal professions and studies",v62427140,10.5,10229.0
+2009/2010,Alberta,"Law, legal professions and studies",v62427140,10.5,8295.0
+2010/2011,Alberta,"Law, legal professions and studies",v62427140,10.5,10666.0
+2011/2012,Alberta,"Law, legal professions and studies",v62427140,10.5,10893.0
+2012/2013,Alberta,"Law, legal professions and studies",v62427140,10.5,11132.0
+2013/2014,Alberta,"Law, legal professions and studies",v62427140,10.5,11170.0
+2014/2015,Alberta,"Law, legal professions and studies",v62427140,10.5,11281.0
+2006/2007,Alberta,Business management and public administration,v62427141,10.6,4532.0
+2007/2008,Alberta,Business management and public administration,v62427141,10.6,4720.0
+2008/2009,Alberta,Business management and public administration,v62427141,10.6,4842.0
+2009/2010,Alberta,Business management and public administration,v62427141,10.6,5043.0
+2010/2011,Alberta,Business management and public administration,v62427141,10.6,5119.0
+2011/2012,Alberta,Business management and public administration,v62427141,10.6,5640.0
+2012/2013,Alberta,Business management and public administration,v62427141,10.6,6094.0
+2013/2014,Alberta,Business management and public administration,v62427141,10.6,6091.0
+2014/2015,Alberta,Business management and public administration,v62427141,10.6,6154.0
+2006/2007,Alberta,Physical and life sciences and technologies,v62427142,10.7,4598.0
+2007/2008,Alberta,Physical and life sciences and technologies,v62427142,10.7,4780.0
+2008/2009,Alberta,Physical and life sciences and technologies,v62427142,10.7,4899.0
+2009/2010,Alberta,Physical and life sciences and technologies,v62427142,10.7,5100.0
+2010/2011,Alberta,Physical and life sciences and technologies,v62427142,10.7,5177.0
+2011/2012,Alberta,Physical and life sciences and technologies,v62427142,10.7,5194.0
+2012/2013,Alberta,Physical and life sciences and technologies,v62427142,10.7,5267.0
+2013/2014,Alberta,Physical and life sciences and technologies,v62427142,10.7,5268.0
+2014/2015,Alberta,Physical and life sciences and technologies,v62427142,10.7,5320.0
+2006/2007,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,4562.0
+2007/2008,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,4706.0
+2008/2009,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,4871.0
+2009/2010,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5057.0
+2010/2011,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5133.0
+2011/2012,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5150.0
+2012/2013,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5201.0
+2013/2014,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5199.0
+2014/2015,Alberta,"Mathematics, computer and information sciences",v62427143,10.8,5251.0
+2006/2007,Alberta,Engineering,v62427144,10.9,4562.0
+2007/2008,Alberta,Engineering,v62427144,10.9,4711.0
+2008/2009,Alberta,Engineering,v62427144,10.9,4925.0
+2009/2010,Alberta,Engineering,v62427144,10.9,4485.0
+2010/2011,Alberta,Engineering,v62427144,10.9,5401.0
+2011/2012,Alberta,Engineering,v62427144,10.9,5815.0
+2012/2013,Alberta,Engineering,v62427144,10.9,5886.0
+2013/2014,Alberta,Engineering,v62427144,10.9,5871.0
+2014/2015,Alberta,Engineering,v62427144,10.9,5929.0
+2006/2007,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,4415.0
+2007/2008,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,4734.0
+2008/2009,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,4841.0
+2009/2010,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5063.0
+2010/2011,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5139.0
+2011/2012,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5156.0
+2012/2013,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5218.0
+2013/2014,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5218.0
+2014/2015,Alberta,"Agriculture, natural resources and conservation",v62427130,10.11,5269.0
+2007/2008,Alberta,Dentistry,v62427131,10.12,17761.0
+2008/2009,Alberta,Dentistry,v62427131,10.12,18578.0
+2009/2010,Alberta,Dentistry,v62427131,10.12,19340.0
+2010/2011,Alberta,Dentistry,v62427131,10.12,19630.0
+2011/2012,Alberta,Dentistry,v62427131,10.12,19699.0
+2012/2013,Alberta,Dentistry,v62427131,10.12,19984.0
+2013/2014,Alberta,Dentistry,v62427131,10.12,19984.0
+2014/2015,Alberta,Dentistry,v62427131,10.12,20184.0
+2006/2007,Alberta,Medicine,v62427132,10.13,11313.0
+2007/2008,Alberta,Medicine,v62427132,10.13,11610.0
+2008/2009,Alberta,Medicine,v62427132,10.13,12197.0
+2009/2010,Alberta,Medicine,v62427132,10.13,10196.0
+2010/2011,Alberta,Medicine,v62427132,10.13,12920.0
+2011/2012,Alberta,Medicine,v62427132,10.13,12967.0
+2012/2013,Alberta,Medicine,v62427132,10.13,13274.0
+2013/2014,Alberta,Medicine,v62427132,10.13,13277.0
+2014/2015,Alberta,Medicine,v62427132,10.13,13410.0
+2007/2008,Alberta,Nursing,v62427133,10.14,5622.0
+2008/2009,Alberta,Nursing,v62427133,10.14,5870.0
+2009/2010,Alberta,Nursing,v62427133,10.14,6056.0
+2010/2011,Alberta,Nursing,v62427133,10.14,6147.0
+2011/2012,Alberta,Nursing,v62427133,10.14,6167.0
+2012/2013,Alberta,Nursing,v62427133,10.14,5628.0
+2013/2014,Alberta,Nursing,v62427133,10.14,5655.0
+2014/2015,Alberta,Nursing,v62427133,10.14,5712.0
+2007/2008,Alberta,Pharmacy,v62427134,10.15,4686.0
+2008/2009,Alberta,Pharmacy,v62427134,10.15,4900.0
+2009/2010,Alberta,Pharmacy,v62427134,10.15,5101.0
+2010/2011,Alberta,Pharmacy,v62427134,10.15,5177.0
+2011/2012,Alberta,Pharmacy,v62427134,10.15,8582.0
+2012/2013,Alberta,Pharmacy,v62427134,10.15,9889.0
+2013/2014,Alberta,Pharmacy,v62427134,10.15,9889.0
+2014/2015,Alberta,Pharmacy,v62427134,10.15,9987.0
+2009/2010,Alberta,Veterinary medicine,v62427135,10.16,10410.0
+2010/2011,Alberta,Veterinary medicine,v62427135,10.16,10566.0
+2011/2012,Alberta,Veterinary medicine,v62427135,10.16,10603.0
+2012/2013,Alberta,Veterinary medicine,v62427135,10.16,10756.0
+2013/2014,Alberta,Veterinary medicine,v62427135,10.16,10756.0
+2014/2015,Alberta,Veterinary medicine,v62427135,10.16,10864.0
+2006/2007,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,4562.0
+2007/2008,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,7603.0
+2008/2009,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,7185.0
+2009/2010,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5034.0
+2010/2011,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5109.0
+2011/2012,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5126.0
+2012/2013,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5087.0
+2013/2014,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5208.0
+2014/2015,Alberta,"Other health, parks, recreation and fitness",v62427136,10.17,5207.0
+2006/2007,British Columbia,Education,v62427145,11.1,4556.0
+2007/2008,British Columbia,Education,v62427145,11.1,4678.0
+2008/2009,British Columbia,Education,v62427145,11.1,4512.0
+2009/2010,British Columbia,Education,v62427145,11.1,4437.0
+2010/2011,British Columbia,Education,v62427145,11.1,4467.0
+2011/2012,British Columbia,Education,v62427145,11.1,4610.0
+2012/2013,British Columbia,Education,v62427145,11.1,4636.0
+2013/2014,British Columbia,Education,v62427145,11.1,4739.0
+2014/2015,British Columbia,Education,v62427145,11.1,4834.0
+2006/2007,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4647.0
+2007/2008,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4717.0
+2008/2009,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4508.0
+2009/2010,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4521.0
+2010/2011,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4446.0
+2011/2012,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4215.0
+2012/2013,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4307.0
+2013/2014,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4400.0
+2014/2015,British Columbia,"Visual and performing arts, and communications technologies",v62427153,11.2,4488.0
+2006/2007,British Columbia,Humanities,v62427154,11.3,4675.0
+2007/2008,British Columbia,Humanities,v62427154,11.3,4816.0
+2008/2009,British Columbia,Humanities,v62427154,11.3,4470.0
+2009/2010,British Columbia,Humanities,v62427154,11.3,4380.0
+2010/2011,British Columbia,Humanities,v62427154,11.3,4372.0
+2011/2012,British Columbia,Humanities,v62427154,11.3,4530.0
+2012/2013,British Columbia,Humanities,v62427154,11.3,4509.0
+2013/2014,British Columbia,Humanities,v62427154,11.3,4577.0
+2014/2015,British Columbia,Humanities,v62427154,11.3,4669.0
+2006/2007,British Columbia,Social and behavioural sciences,v62427155,11.4,4702.0
+2007/2008,British Columbia,Social and behavioural sciences,v62427155,11.4,4808.0
+2008/2009,British Columbia,Social and behavioural sciences,v62427155,11.4,4502.0
+2009/2010,British Columbia,Social and behavioural sciences,v62427155,11.4,4554.0
+2010/2011,British Columbia,Social and behavioural sciences,v62427155,11.4,4605.0
+2011/2012,British Columbia,Social and behavioural sciences,v62427155,11.4,4726.0
+2012/2013,British Columbia,Social and behavioural sciences,v62427155,11.4,4785.0
+2013/2014,British Columbia,Social and behavioural sciences,v62427155,11.4,4847.0
+2014/2015,British Columbia,Social and behavioural sciences,v62427155,11.4,4944.0
+2006/2007,British Columbia,"Law, legal professions and studies",v62427156,11.5,7437.0
+2007/2008,British Columbia,"Law, legal professions and studies",v62427156,11.5,7592.0
+2008/2009,British Columbia,"Law, legal professions and studies",v62427156,11.5,9104.0
+2009/2010,British Columbia,"Law, legal professions and studies",v62427156,11.5,9193.0
+2010/2011,British Columbia,"Law, legal professions and studies",v62427156,11.5,9376.0
+2011/2012,British Columbia,"Law, legal professions and studies",v62427156,11.5,9564.0
+2012/2013,British Columbia,"Law, legal professions and studies",v62427156,11.5,9536.0
+2013/2014,British Columbia,"Law, legal professions and studies",v62427156,11.5,9642.0
+2014/2015,British Columbia,"Law, legal professions and studies",v62427156,11.5,9835.0
+2006/2007,British Columbia,Business management and public administration,v62427157,11.6,4743.0
+2007/2008,British Columbia,Business management and public administration,v62427157,11.6,4914.0
+2008/2009,British Columbia,Business management and public administration,v62427157,11.6,4567.0
+2009/2010,British Columbia,Business management and public administration,v62427157,11.6,4385.0
+2010/2011,British Columbia,Business management and public administration,v62427157,11.6,4300.0
+2011/2012,British Columbia,Business management and public administration,v62427157,11.6,4626.0
+2012/2013,British Columbia,Business management and public administration,v62427157,11.6,4449.0
+2013/2014,British Columbia,Business management and public administration,v62427157,11.6,4500.0
+2014/2015,British Columbia,Business management and public administration,v62427157,11.6,4590.0
+2006/2007,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4414.0
+2007/2008,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4523.0
+2008/2009,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4433.0
+2009/2010,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4480.0
+2010/2011,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4585.0
+2011/2012,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4703.0
+2012/2013,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4790.0
+2013/2014,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4886.0
+2014/2015,British Columbia,Physical and life sciences and technologies,v62427158,11.7,4983.0
+2006/2007,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4447.0
+2007/2008,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4547.0
+2008/2009,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4479.0
+2009/2010,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4517.0
+2010/2011,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4545.0
+2011/2012,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4667.0
+2012/2013,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4719.0
+2013/2014,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4848.0
+2014/2015,British Columbia,"Mathematics, computer and information sciences",v62427159,11.8,4945.0
+2006/2007,British Columbia,Engineering,v62427160,11.9,4395.0
+2007/2008,British Columbia,Engineering,v62427160,11.9,4400.0
+2008/2009,British Columbia,Engineering,v62427160,11.9,4484.0
+2009/2010,British Columbia,Engineering,v62427160,11.9,4675.0
+2010/2011,British Columbia,Engineering,v62427160,11.9,4649.0
+2011/2012,British Columbia,Engineering,v62427160,11.9,4742.0
+2012/2013,British Columbia,Engineering,v62427160,11.9,4879.0
+2013/2014,British Columbia,Engineering,v62427160,11.9,4976.0
+2014/2015,British Columbia,Engineering,v62427160,11.9,5076.0
+2008/2009,British Columbia,Architecture and related technologies,v62427146,11.10,4342.0
+2009/2010,British Columbia,Architecture and related technologies,v62427146,11.10,4430.0
+2010/2011,British Columbia,Architecture and related technologies,v62427146,11.10,4518.0
+2011/2012,British Columbia,Architecture and related technologies,v62427146,11.10,4608.0
+2012/2013,British Columbia,Architecture and related technologies,v62427146,11.10,4700.0
+2013/2014,British Columbia,Architecture and related technologies,v62427146,11.10,4794.0
+2014/2015,British Columbia,Architecture and related technologies,v62427146,11.10,4890.0
+2006/2007,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4181.0
+2007/2008,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4367.0
+2008/2009,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4351.0
+2009/2010,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4214.0
+2010/2011,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4510.0
+2011/2012,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4731.0
+2012/2013,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4631.0
+2013/2014,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4700.0
+2014/2015,British Columbia,"Agriculture, natural resources and conservation",v62427147,11.11,4794.0
+2007/2008,British Columbia,Dentistry,v62427148,11.12,10920.0
+2008/2009,British Columbia,Dentistry,v62427148,11.12,11133.0
+2009/2010,British Columbia,Dentistry,v62427148,11.12,11356.0
+2010/2011,British Columbia,Dentistry,v62427148,11.12,15457.0
+2011/2012,British Columbia,Dentistry,v62427148,11.12,15766.0
+2012/2013,British Columbia,Dentistry,v62427148,11.12,16082.0
+2013/2014,British Columbia,Dentistry,v62427148,11.12,16403.0
+2014/2015,British Columbia,Dentistry,v62427148,11.12,16731.0
+2006/2007,British Columbia,Medicine,v62427149,11.13,10701.0
+2007/2008,British Columbia,Medicine,v62427149,11.13,10920.0
+2008/2009,British Columbia,Medicine,v62427149,11.13,11133.0
+2009/2010,British Columbia,Medicine,v62427149,11.13,11356.0
+2010/2011,British Columbia,Medicine,v62427149,11.13,15457.0
+2011/2012,British Columbia,Medicine,v62427149,11.13,15766.0
+2012/2013,British Columbia,Medicine,v62427149,11.13,16082.0
+2013/2014,British Columbia,Medicine,v62427149,11.13,16403.0
+2014/2015,British Columbia,Medicine,v62427149,11.13,16731.0
+2007/2008,British Columbia,Nursing,v62427150,11.14,5557.0
+2008/2009,British Columbia,Nursing,v62427150,11.14,4436.0
+2009/2010,British Columbia,Nursing,v62427150,11.14,4028.0
+2010/2011,British Columbia,Nursing,v62427150,11.14,4081.0
+2011/2012,British Columbia,Nursing,v62427150,11.14,4285.0
+2012/2013,British Columbia,Nursing,v62427150,11.14,4287.0
+2013/2014,British Columbia,Nursing,v62427150,11.14,4380.0
+2014/2015,British Columbia,Nursing,v62427150,11.14,4468.0
+2007/2008,British Columbia,Pharmacy,v62427151,11.15,6090.0
+2008/2009,British Columbia,Pharmacy,v62427151,11.15,6198.0
+2009/2010,British Columbia,Pharmacy,v62427151,11.15,6322.0
+2010/2011,British Columbia,Pharmacy,v62427151,11.15,6661.0
+2011/2012,British Columbia,Pharmacy,v62427151,11.15,6794.0
+2012/2013,British Columbia,Pharmacy,v62427151,11.15,6930.0
+2013/2014,British Columbia,Pharmacy,v62427151,11.15,7069.0
+2014/2015,British Columbia,Pharmacy,v62427151,11.15,7210.0
+2006/2007,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,5057.0
+2007/2008,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,5599.0
+2008/2009,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4477.0
+2009/2010,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4568.0
+2010/2011,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4556.0
+2011/2012,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4638.0
+2012/2013,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4755.0
+2013/2014,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4850.0
+2014/2015,British Columbia,"Other health, parks, recreation and fitness",v62427152,11.17,4947.0
