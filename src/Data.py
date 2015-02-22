@@ -5,6 +5,7 @@ import os.path
 import pandas as pd
 import random
 import re
+import tkFileDialog
 
 def to_number(s):
     try:
@@ -72,18 +73,19 @@ def fit_line2(x, y):
     
 class dataset: 
     def __init__(self):
-        filePath = os.path.dirname(os.path.abspath(__file__)) 
+        #filePath = os.path.dirname(os.path.abspath(__file__)) 
+        filePath = tkFileDialog.askdirectory(title='folder where files are saved')
         self.undergrads = pd.read_csv(filePath + "/Weighted Avg Under Grad.csv")
         self.employment = pd.read_csv(filePath + "/employment.csv")
         self.undergrads = self.undergrads[self.undergrads["GEO"] != "Canada"]
-        print self.undergrads.columns
+        #print self.undergrads.columns
         
     def getprovs(self):
-        print "provs\n{}".format(self.undergrads["GEO"].unique())
+        #print "provs\n{}".format(self.undergrads["GEO"].unique())
         return self.undergrads["GEO"].unique()
     
     def getfields(self):
-        print "fields\n{}".format(self.undergrads["GROUP"].unique())
+        #print "fields\n{}".format(self.undergrads["GROUP"].unique())
         return self.undergrads["GROUP"].unique()
     #pd.read_csv("C:/Users/itaraday/Downloads/CODE2015/Weighted Avg Under Grad.csv")
     
@@ -93,7 +95,7 @@ class dataset:
         formatedNAICS = {}
         for i in NAICS:
             formatedNAICS[i] = re.sub(pattern, '', i);
-        print "NAICS\n{}".format(NAICS)
+        #print "NAICS\n{}".format(NAICS)
         return formatedNAICS
 
         
